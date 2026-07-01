@@ -1,0 +1,868 @@
+"GICS_LIB_ID","GICS_LIB_CONTENT","GICS_2ND_ID","GICS_PERM"
+532,"and Agricultural Chemicals",131,0
+533,"Agricultural",131,0
+534,"Agricultural Chemicals",131,0
+535,"Chemicals",131,0
+536,"Investment",132,0
+537,"Investment Banking",132,0
+538,"Investment Banking and",132,0
+539,"Investment Banking and Brokerage",132,132
+540,"Banking",132,0
+541,"Banking and",132,0
+542,"Banking and Brokerage",132,0
+544,"and Brokerage",132,0
+545,"Brokerage",132,0
+546,"Integrated",133,0
+547,"Integrated Oil",133,0
+548,"Integrated Oil and",133,0
+549,"Integrated Oil and Gas",133,133
+550,"Oil",133,529
+551,"Oil and",133,0
+552,"Oil and Gas",133,0
+554,"and Gas",133,0
+555,"Gas",133,530
+556,"Restaurants",135,135
+557,"Household",137,0
+558,"Household Products",137,137
+559,"Products",137,0
+560,"Diversified",141,0
+561,"Diversified Support",141,0
+562,"Diversified Support Services",141,141
+563,"Support",141,0
+564,"Support Services",141,0
+565,"Services",141,0
+566,"Networking",142,0
+567,"Networking Equipment",142,142
+568,"Equipment",142,0
+569,"Apparel",148,0
+570,"Apparel Accessories",148,0
+571,"Apparel Accessories and",148,0
+572,"Apparel Accessories and Luxury",148,0
+573,"Apparel Accessories and Luxury Goods",148,148
+574,"Accessories",148,0
+575,"Accessories and",148,0
+576,"Accessories and Luxury",148,0
+577,"Accessories and Luxury Goods",148,0
+579,"and Luxury",148,0
+580,"and Luxury Goods",148,0
+581,"Luxury",148,0
+582,"Luxury Goods",148,0
+583,"Goods",148,0
+584,"Soft",149,0
+585,"Soft Drinks",149,149
+586,"Drinks",149,0
+587,"IT",151,0
+588,"IT Consulting",151,0
+589,"IT Consulting and",151,0
+590,"IT Consulting and Services",151,151
+591,"Consulting",151,0
+592,"Consulting and",151,0
+593,"Consulting and Services",151,0
+595,"and Services",151,0
+596,"Services",151,0
+597,"Oil",153,529
+598,"Oil and",153,0
+599,"Oil and Gas",153,0
+600,"Oil and Gas Storage",153,0
+601,"Oil and Gas Storage and",153,0
+602,"Oil and Gas Storage and Transportation",153,153
+604,"and Gas",153,0
+605,"and Gas Storage",153,0
+606,"and Gas Storage and",153,0
+607,"and Gas Storage and Transportation",153,0
+608,"Gas",153,530
+609,"Gas Storage",153,0
+610,"Gas Storage and",153,0
+611,"Gas Storage and Transportation",153,0
+612,"Storage",153,0
+613,"Storage and",153,0
+614,"Storage and Transportation",153,0
+616,"and Transportation",153,0
+617,"Transportation",153,8
+618,"Coal",158,0
+619,"Coal and",158,0
+620,"Coal and Consumable",158,0
+621,"Coal and Consumable Fuels",158,158
+623,"and Consumable",158,0
+624,"and Consumable Fuels",158,0
+625,"Consumable",158,0
+626,"Consumable Fuels",158,0
+627,"Fuels",158,0
+628,"Construction",161,0
+629,"Construction and",161,0
+630,"Construction and Engineering",161,161
+632,"and Engineering",161,0
+633,"Engineering",161,0
+634,"Hypermarkets",162,0
+635,"Hypermarkets and",162,0
+636,"Hypermarkets and Super",162,0
+637,"Hypermarkets and Super Centers",162,162
+639,"and Super",162,0
+640,"and Super Centers",162,0
+641,"Super",162,0
+642,"Super Centers",162,0
+643,"Centers",162,0
+644,"Railroads",165,165
+645,"Industrial",166,0
+646,"Industrial Machinery",166,166
+647,"Machinery",166,0
+648,"Drug",167,0
+649,"Drug Retail",167,167
+650,"Retail",167,0
+651,"Homebuilding",168,168
+652,"Health",171,0
+653,"Health Care",171,19
+654,"Health Care Facilities",171,171
+655,"Care",171,0
+656,"Care Facilities",171,0
+657,"Facilities",171,0
+658,"Health",175,0
+659,"Health Care",175,19
+660,"Health Care Supplies",175,175
+661,"Care",175,0
+662,"Care Supplies",175,0
+663,"Supplies",175,0
+664,"Oil",177,529
+665,"Oil and",177,0
+666,"Oil and Gas",177,0
+667,"Oil and Gas Drilling",177,177
+669,"and Gas",177,0
+670,"and Gas Drilling",177,0
+671,"Gas",177,530
+672,"Gas Drilling",177,0
+673,"Drilling",177,0
+674,"General",181,0
+675,"General Merchandise",181,0
+676,"General Merchandise Stores",181,181
+677,"Merchandise",181,0
+678,"Merchandise Stores",181,0
+679,"Stores",181,0
+680,"Diversified",185,0
+681,"Diversified Chemicals",185,185
+682,"Chemicals",185,0
+683,"Data",190,0
+684,"Data Processing",190,0
+685,"Data Processing Services",190,190
+686,"Processing",190,0
+687,"Processing Services",190,0
+688,"Services",190,0
+689,"Specialty",195,0
+690,"Specialty Chemicals",195,195
+691,"Chemicals",195,0
+692,"Personal",210,0
+693,"Personal Products",210,210
+694,"Products",210,0
+695,"Automobile",231,0
+696,"Automobile Manufacturers",231,231
+697,"Manufacturers",231,0
+698,"Diversified",234,0
+699,"Diversified Metals",234,0
+700,"Diversified Metals and",234,0
+701,"Diversified Metals and Mining",234,234
+702,"Metals",234,0
+703,"Metals and",234,0
+704,"Metals and Mining",234,0
+706,"and Mining",234,0
+707,"Mining",234,0
+708,"Apparel",237,0
+709,"Apparel Retail",237,237
+710,"Retail",237,0
+711,"Consumer",238,0
+712,"Consumer Electronics",238,238
+713,"Electronics",238,0
+714,"Tires",247,0
+715,"Tires and",247,0
+716,"Tires and Rubber",247,247
+718,"and Rubber",247,0
+719,"Rubber",247,0
+720,"Industrial",248,0
+721,"Industrial Materials",248,248
+722,"Materials",248,4
+723,"Motorcycle",251,0
+724,"Motorcycle Manufacturers",251,251
+725,"Manufacturers",251,0
+726,"Telecommunications",253,0
+727,"Telecommunications Equipment",253,253
+728,"Equipment",253,0
+729,"Leisure",255,0
+730,"Leisure Products",255,255
+731,"Products",255,0
+732,"Technology",260,0
+733,"Technology Hardware",260,0
+734,"Technology Hardware Storage",260,0
+735,"Technology Hardware Storage and",260,0
+736,"Technology Hardware Storage and Peripherals",260,260
+737,"Hardware",260,0
+738,"Hardware Storage",260,0
+739,"Hardware Storage and",260,0
+740,"Hardware Storage and Peripherals",260,0
+741,"Storage",260,0
+742,"Storage and",260,0
+743,"Storage and Peripherals",260,0
+745,"and Peripherals",260,0
+746,"Peripherals",260,0
+747,"Home",261,0
+748,"Home Improvement",261,0
+749,"Home Improvement Retail",261,261
+750,"Improvement",261,0
+751,"Improvement Retail",261,0
+752,"Retail",261,0
+753,"Life",269,0
+754,"Life Sciences",269,0
+755,"Life Sciences Tools",269,0
+756,"Life Sciences Tools and",269,0
+757,"Life Sciences Tools and Services",269,269
+758,"Sciences",269,0
+759,"Sciences Tools",269,0
+760,"Sciences Tools and",269,0
+761,"Sciences Tools and Services",269,0
+762,"Tools",269,0
+763,"Tools and",269,0
+764,"Tools and Services",269,0
+766,"and Services",269,0
+767,"Services",269,0
+768,"Paper",274,0
+769,"Paper Products",274,274
+770,"Products",274,0
+771,"Advertising",275,275
+772,"Trucking",282,282
+773,"Oil",293,529
+774,"Oil and",293,0
+775,"Oil and Gas",293,0
+776,"Oil and Gas Refining",293,0
+777,"Oil and Gas Refining and",293,0
+778,"Oil and Gas Refining and Marketing",293,0
+779,"Oil and Gas Refining and Marketing and",293,0
+780,"Oil and Gas Refining and Marketing and Transportation",293,293
+782,"and Gas",293,0
+783,"and Gas Refining",293,0
+784,"and Gas Refining and",293,0
+785,"and Gas Refining and Marketing",293,0
+786,"and Gas Refining and Marketing and",293,0
+787,"and Gas Refining and Marketing and Transportation",293,0
+788,"Gas",293,530
+789,"Gas Refining",293,0
+790,"Gas Refining and",293,0
+791,"Gas Refining and Marketing",293,0
+792,"Gas Refining and Marketing and",293,0
+793,"Gas Refining and Marketing and Transportation",293,0
+794,"Refining",293,0
+795,"Refining and",293,0
+796,"Refining and Marketing",293,0
+797,"Refining and Marketing and",293,0
+798,"Refining and Marketing and Transportation",293,0
+800,"and Marketing",293,0
+801,"and Marketing and",293,0
+802,"and Marketing and Transportation",293,0
+803,"Marketing",293,0
+804,"Marketing and",293,0
+805,"Marketing and Transportation",293,0
+807,"and Transportation",293,0
+808,"Transportation",293,8
+809,"Food",297,0
+810,"Food Retail",297,297
+811,"Retail",297,0
+812,"Retail",315,0
+813,"Retail REITs",315,315
+814,"REITs",315,78
+815,"Department",316,0
+816,"Department Stores",316,316
+817,"Stores",316,0
+818,"Construction",322,0
+819,"Construction Materials",322,322
+820,"Materials",322,4
+821,"Home",339,0
+822,"Home Furnishings",339,339
+823,"Furnishings",339,0
+824,"Brewers",340,340
+825,"Housewares",355,0
+826,"Housewares and",355,0
+827,"Housewares and Specialties",355,355
+829,"and Specialties",355,0
+830,"Specialties",355,0
+831,"Gold",357,357
+832,"Publishing",358,358
+833,"Research",361,0
+834,"Research and",361,0
+835,"Research and Consulting",361,0
+836,"Research and Consulting Services",361,361
+838,"and Consulting",361,0
+839,"and Consulting Services",361,0
+840,"Consulting",361,0
+841,"Consulting Services",361,0
+842,"Services",361,0
+843,"Steel",370,370
+844,"Thrifts",384,0
+845,"Thrifts and",384,0
+846,"Thrifts and Mortgage",384,0
+847,"Thrifts and Mortgage Finance",384,384
+849,"and Mortgage",384,0
+850,"and Mortgage Finance",384,0
+851,"Mortgage",384,0
+852,"Mortgage Finance",384,0
+853,"Finance",384,0
+854,"Office",395,0
+855,"Office Servicesand",395,0
+856,"Office Servicesand Supplies",395,395
+857,"Servicesand",395,0
+858,"Servicesand Supplies",395,0
+859,"Supplies",395,0
+860,"Human",425,0
+861,"Human Resource",425,0
+862,"Human Resource and",425,0
+863,"Human Resource and Employment",425,0
+864,"Human Resource and Employment Services",425,425
+865,"Resource",425,0
+866,"Resource and",425,0
+867,"Resource and Employment",425,0
+868,"Resource and Employment Services",425,0
+870,"and Employment",425,0
+871,"and Employment Services",425,0
+872,"Employment",425,0
+873,"Employment Services",425,0
+874,"Services",425,0
+875,"Computer",433,0
+876,"Computer Storage",433,0
+877,"Computer Storage and",433,0
+878,"Computer Storage and Peripherals",433,433
+879,"Storage",433,0
+880,"Storage and",433,0
+881,"Storage and Peripherals",433,0
+883,"and Peripherals",433,0
+884,"Peripherals",433,0
+885,"Office",444,0
+886,"Office REITs",444,444
+887,"REITs",444,78
+888,"Household",446,0
+889,"Household Appliances",446,446
+890,"Appliances",446,0
+891,"Food",462,0
+892,"Food Distributors",462,462
+893,"Distributors",462,0
+894,"Electronic",465,0
+895,"Electronic Equipment",465,0
+896,"Electronic Equipment and",465,0
+897,"Electronic Equipment and Instruments",465,465
+898,"Equipment",465,0
+899,"Equipment and",465,0
+900,"Equipment and Instruments",465,0
+902,"and Instruments",465,0
+903,"Instruments",465,0
+904,"Specialty",482,0
+905,"Specialty Retail",482,482
+906,"Retail",482,0
+907,"Trading",495,0
+908,"Trading Companies",495,0
+909,"Trading Companies and",495,0
+910,"Trading Companies and Distributors",495,495
+911,"Companies",495,0
+912,"Companies and",495,0
+913,"Companies and Distributors",495,0
+915,"and Distributors",495,0
+916,"Distributors",495,0
+917,"Environmental",515,0
+918,"Environmental Services",515,515
+919,"Services",515,0
+920,"Casinos",528,0
+921,"Casinos and",528,0
+922,"Casinos and Gaming",528,528
+924,"and Gaming",528,0
+925,"Gaming",528,0
+926,"Oil",529,529
+927,"Gas",530,530
+0,"NOTHING",0,0
+1,"Energy",2,2
+2,"Materials",4,4
+3,"Industrials",5,5
+4,"Capital",6,0
+5,"Capital Goods",6,6
+6,"Goods",6,0
+7,"Commercial",7,0
+8,"Commercial and",7,0
+9,"Commercial and Professional",7,0
+10,"Commercial and Professional Services",7,7
+12,"and Professional",7,0
+13,"and Professional Services",7,0
+14,"Professional",7,0
+15,"Professional Services",7,0
+16,"Services",7,0
+17,"Transportation",8,8
+18,"Consumer",9,0
+19,"Consumer Discretionary",9,9
+20,"Discretionary",9,0
+21,"Automobiles",10,0
+22,"Automobiles and",10,0
+23,"Automobiles and Components",10,10
+25,"and Components",10,0
+26,"Components",10,0
+27,"Consumer",11,0
+28,"Consumer Durables",11,0
+29,"Consumer Durables and",11,0
+30,"Consumer Durables and Apparel",11,11
+31,"Durables",11,0
+32,"Durables and",11,0
+33,"Durables and Apparel",11,0
+35,"and Apparel",11,0
+36,"Apparel",11,0
+37,"Consumer",12,0
+38,"Consumer Services",12,12
+39,"Services",12,0
+40,"Media",13,13
+41,"Retailing",14,14
+42,"Consumer",15,0
+43,"Consumer Staples",15,15
+44,"Staples",15,0
+45,"Food",16,0
+46,"Food and",16,0
+47,"Food and Staples",16,0
+48,"Food and Staples Retailing",16,16
+50,"and Staples",16,0
+51,"and Staples Retailing",16,0
+52,"Staples",16,0
+53,"Staples Retailing",16,0
+54,"Retailing",16,14
+55,"Food",17,0
+56,"Food Beverage",17,0
+57,"Food Beverage and",17,0
+58,"Food Beverage and Tobacco",17,17
+59,"Beverage",17,0
+60,"Beverage and",17,0
+61,"Beverage and Tobacco",17,0
+63,"and Tobacco",17,0
+64,"Tobacco",17,61
+65,"Household",18,0
+66,"Household and",18,0
+67,"Household and Personal",18,0
+68,"Household and Personal Products",18,18
+70,"and Personal",18,0
+71,"and Personal Products",18,0
+72,"Personal",18,0
+73,"Personal Products",18,210
+74,"Products",18,0
+75,"Health",19,0
+76,"Health Care",19,19
+77,"Care",19,0
+78,"Health",20,0
+79,"Health Care",20,19
+80,"Health Care Equipment",20,0
+81,"Health Care Equipment and",20,0
+82,"Health Care Equipment and Services",20,20
+83,"Care",20,0
+84,"Care Equipment",20,0
+85,"Care Equipment and",20,0
+86,"Care Equipment and Services",20,0
+87,"Equipment",20,0
+88,"Equipment and",20,0
+89,"Equipment and Services",20,0
+91,"and Services",20,0
+92,"Services",20,0
+93,"Pharmaceuticals",21,37
+94,"Pharmaceuticals Biotechnology",21,0
+95,"Pharmaceuticals Biotechnology and",21,0
+96,"Pharmaceuticals Biotechnology and Life",21,0
+97,"Pharmaceuticals Biotechnology and Life Sciences",21,21
+98,"Biotechnology",21,55
+99,"Biotechnology and",21,0
+100,"Biotechnology and Life",21,0
+101,"Biotechnology and Life Sciences",21,0
+103,"and Life",21,0
+104,"and Life Sciences",21,0
+105,"Life",21,0
+106,"Life Sciences",21,0
+107,"Sciences",21,0
+108,"Financials",22,22
+109,"Banks",23,23
+110,"Diversified",24,0
+111,"Diversified Financials",24,24
+112,"Financials",24,22
+113,"Insurance",25,25
+114,"Real",26,0
+115,"Real Estate",26,26
+116,"Estate",26,0
+117,"Information",27,0
+118,"Information Technology",27,27
+119,"Technology",27,0
+120,"Software",28,0
+121,"Software and",28,0
+122,"Software and Services",28,28
+124,"and Services",28,0
+125,"Services",28,0
+126,"Technology",29,0
+127,"Technology Hardware",29,0
+128,"Technology Hardware and",29,0
+129,"Technology Hardware and Equipment",29,29
+130,"Hardware",29,0
+131,"Hardware and",29,0
+132,"Hardware and Equipment",29,0
+134,"and Equipment",29,0
+135,"Equipment",29,0
+136,"Semiconductors",30,75
+137,"Semiconductors and",30,0
+138,"Semiconductors and Semiconductor",30,0
+139,"Semiconductors and Semiconductor Equipment",30,30
+141,"and Semiconductor",30,0
+142,"and Semiconductor Equipment",30,0
+143,"Semiconductor",30,0
+144,"Semiconductor Equipment",30,80
+145,"Equipment",30,0
+146,"Telecommunication",32,0
+147,"Telecommunication Services",32,32
+148,"Services",32,0
+149,"Utilities",33,33
+150,"Industrial",35,0
+151,"Industrial Conglomerates",35,35
+152,"Conglomerates",35,0
+153,"Pharmaceuticals",37,37
+154,"IT",38,0
+155,"IT Consulting",38,0
+156,"IT Consulting and",38,0
+157,"IT Consulting and Other",38,0
+158,"IT Consulting and Other Services",38,38
+159,"Consulting",38,0
+160,"Consulting and",38,0
+161,"Consulting and Other",38,0
+162,"Consulting and Other Services",38,0
+164,"and Other",38,0
+165,"and Other Services",38,0
+166,"Other",38,0
+167,"Other Services",38,0
+168,"Services",38,0
+169,"Property",39,0
+170,"Property and",39,0
+171,"Property and Casualty",39,0
+172,"Property and Casualty Insurance",39,39
+174,"and Casualty",39,0
+175,"and Casualty Insurance",39,0
+176,"Casualty",39,0
+177,"Casualty Insurance",39,0
+178,"Insurance",39,25
+179,"Home",40,0
+180,"Home Entertainment",40,0
+181,"Home Entertainment Software",40,40
+182,"Entertainment",40,0
+183,"Entertainment Software",40,0
+184,"Software",40,0
+185,"Application",41,0
+186,"Application Software",41,41
+187,"Software",41,0
+188,"Diversified",42,0
+189,"Diversified Commercial",42,0
+190,"Diversified Commercial Services",42,42
+191,"Commercial",42,0
+192,"Commercial Services",42,0
+193,"Services",42,0
+194,"Automotive",43,0
+195,"Automotive Retail",43,43
+196,"Retail",43,0
+197,"Independent",44,0
+198,"Independent Power",44,0
+199,"Independent Power Producers",44,0
+200,"Independent Power Producers and",44,0
+201,"Independent Power Producers and Energy",44,0
+202,"Independent Power Producers and Energy Traders",44,44
+203,"Power",44,0
+204,"Power Producers",44,0
+205,"Power Producers and",44,0
+206,"Power Producers and Energy",44,0
+207,"Power Producers and Energy Traders",44,0
+208,"Producers",44,0
+209,"Producers and",44,0
+210,"Producers and Energy",44,0
+211,"Producers and Energy Traders",44,0
+213,"and Energy",44,0
+214,"and Energy Traders",44,0
+215,"Energy",44,2
+216,"Energy Traders",44,0
+217,"Traders",44,0
+218,"Managed",45,0
+219,"Managed Health",45,0
+220,"Managed Health Care",45,45
+221,"Health",45,0
+222,"Health Care",45,19
+223,"Care",45,0
+224,"Life",46,0
+225,"Life and",46,0
+226,"Life and Health",46,0
+227,"Life and Health Insurance",46,46
+229,"and Health",46,0
+230,"and Health Insurance",46,0
+231,"Health",46,0
+232,"Health Insurance",46,0
+233,"Insurance",46,25
+234,"Asset",47,0
+235,"Asset Management",47,0
+236,"Asset Management and",47,0
+237,"Asset Management and Custody",47,0
+238,"Asset Management and Custody Banks",47,47
+239,"Management",47,0
+240,"Management and",47,0
+241,"Management and Custody",47,0
+242,"Management and Custody Banks",47,0
+244,"and Custody",47,0
+245,"and Custody Banks",47,0
+246,"Custody",47,0
+247,"Custody Banks",47,0
+248,"Banks",47,23
+249,"Gas",49,530
+250,"Gas Utilities",49,49
+251,"Utilities",49,33
+252,"Industrial",50,0
+253,"Industrial Gases",50,50
+254,"Gases",50,0
+255,"Internet",52,0
+256,"Internet Software",52,0
+257,"Internet Software and",52,0
+258,"Internet Software and Services",52,52
+259,"Software",52,0
+260,"Software and",52,0
+261,"Software and Services",52,28
+263,"and Services",52,0
+264,"Services",52,0
+265,"Aluminum",53,53
+266,"Biotechnology",55,55
+267,"Building",56,0
+268,"Building Products",56,56
+269,"Products",56,0
+270,"Data",57,0
+271,"Data Processing",57,0
+272,"Data Processing and",57,0
+273,"Data Processing and Outsourced",57,0
+274,"Data Processing and Outsourced Services",57,57
+275,"Processing",57,0
+276,"Processing and",57,0
+277,"Processing and Outsourced",57,0
+278,"Processing and Outsourced Services",57,0
+280,"and Outsourced",57,0
+281,"and Outsourced Services",57,0
+282,"Outsourced",57,0
+283,"Outsourced Services",57,0
+284,"Services",57,0
+285,"Tobacco",61,61
+286,"Internet",62,0
+287,"Internet Retail",62,62
+288,"Retail",62,0
+289,"MultiUtilities",63,63
+290,"Airlines",64,64
+291,"Electric",65,0
+292,"Electric Utilities",65,65
+293,"Utilities",65,33
+294,"Consumer",66,0
+295,"Consumer Finance",66,66
+296,"Finance",66,0
+297,"Specialized",68,0
+298,"Specialized REITs",68,68
+299,"REITs",68,78
+300,"Diversified",69,0
+301,"Diversified Financial",69,0
+302,"Diversified Financial Services",69,69
+303,"Financial",69,0
+304,"Financial Services",69,0
+305,"Services",69,0
+306,"Health",70,0
+307,"Health Care",70,19
+308,"Health Care Distribution",70,0
+309,"Health Care Distribution and",70,0
+310,"Health Care Distribution and Services",70,70
+311,"Care",70,0
+312,"Care Distribution",70,0
+313,"Care Distribution and",70,0
+314,"Care Distribution and Services",70,0
+315,"Distribution",70,0
+316,"Distribution and",70,0
+317,"Distribution and Services",70,0
+319,"and Services",70,0
+320,"Services",70,0
+321,"Electrical",71,0
+322,"Electrical Components",71,0
+323,"Electrical Components and",71,0
+324,"Electrical Components and Equipment",71,71
+325,"Components",71,0
+326,"Components and",71,0
+327,"Components and Equipment",71,0
+329,"and Equipment",71,0
+330,"Equipment",71,0
+331,"Oil",74,529
+332,"Oil and",74,0
+333,"Oil and Gas",74,0
+334,"Oil and Gas Exploration",74,0
+335,"Oil and Gas Exploration and",74,0
+336,"Oil and Gas Exploration and Production",74,74
+338,"and Gas",74,0
+339,"and Gas Exploration",74,0
+340,"and Gas Exploration and",74,0
+341,"and Gas Exploration and Production",74,0
+342,"Gas",74,530
+343,"Gas Exploration",74,0
+344,"Gas Exploration and",74,0
+345,"Gas Exploration and Production",74,0
+346,"Exploration",74,0
+347,"Exploration and",74,0
+348,"Exploration and Production",74,0
+350,"and Production",74,0
+351,"Production",74,0
+352,"Semiconductors",75,75
+353,"Insurance",76,25
+354,"Insurance Brokers",76,76
+355,"Brokers",76,0
+356,"REITs",78,78
+357,"Computer",79,0
+358,"Computer Hardware",79,79
+359,"Hardware",79,0
+360,"Semiconductor",80,0
+361,"Semiconductor Equipment",80,80
+362,"Equipment",80,0
+363,"Agricultural",81,0
+364,"Agricultural Products",81,81
+365,"Products",81,0
+366,"Multi-line",82,0
+367,"Multi-line Insurance",82,82
+368,"Insurance",82,25
+369,"Specialty",86,0
+370,"Specialty Stores",86,86
+371,"Stores",86,0
+372,"Residential",89,0
+373,"Residential REITs",89,89
+374,"REITs",89,78
+375,"Paper",90,0
+376,"Paper Packaging",90,90
+377,"Packaging",90,0
+378,"Oil",91,529
+379,"Oil and",91,0
+380,"Oil and Gas",91,0
+381,"Oil and Gas Equipment",91,0
+382,"Oil and Gas Equipment and",91,0
+383,"Oil and Gas Equipment and Services",91,91
+385,"and Gas",91,0
+386,"and Gas Equipment",91,0
+387,"and Gas Equipment and",91,0
+388,"and Gas Equipment and Services",91,0
+389,"Gas",91,530
+390,"Gas Equipment",91,0
+391,"Gas Equipment and",91,0
+392,"Gas Equipment and Services",91,0
+393,"Equipment",91,0
+394,"Equipment and",91,0
+395,"Equipment and Services",91,0
+397,"and Services",91,0
+398,"Services",91,0
+399,"Metal",92,0
+400,"Metal and",92,0
+401,"Metal and Glass",92,0
+402,"Metal and Glass Containers",92,92
+404,"and Glass",92,0
+405,"and Glass Containers",92,0
+406,"Glass",92,0
+407,"Glass Containers",92,0
+408,"Containers",92,0
+409,"Multi-Sector",101,0
+410,"Multi-Sector Holdings",101,101
+411,"Holdings",101,0
+412,"Computer",102,0
+413,"Computer and",102,0
+414,"Computer and Electronics",102,0
+415,"Computer and Electronics Retail",102,102
+417,"and Electronics",102,0
+418,"and Electronics Retail",102,0
+419,"Electronics",102,0
+420,"Electronics Retail",102,0
+421,"Retail",102,0
+422,"Aerospace",106,0
+423,"Aerospace and",106,0
+424,"Aerospace and Defense",106,106
+426,"and Defense",106,0
+427,"Defense",106,0
+428,"Auto",107,0
+429,"Auto Parts",107,0
+430,"Auto Parts and",107,0
+431,"Auto Parts and Equipment",107,107
+432,"Parts",107,0
+433,"Parts and",107,0
+434,"Parts and Equipment",107,0
+436,"and Equipment",107,0
+437,"Equipment",107,0
+438,"Distillers",112,0
+439,"Distillers and",112,0
+440,"Distillers and Vintners",112,112
+442,"and Vintners",112,0
+443,"Vintners",112,0
+444,"Air",113,0
+445,"Air Freight",113,0
+446,"Air Freight and",113,0
+447,"Air Freight and Logistics",113,113
+448,"Freight",113,0
+449,"Freight and",113,0
+450,"Freight and Logistics",113,0
+452,"and Logistics",113,0
+453,"Logistics",113,0
+454,"Systems",114,0
+455,"Systems Software",114,114
+456,"Software",114,0
+457,"Broadcasting",115,0
+458,"Broadcasting and",115,0
+459,"Broadcasting and Cable",115,0
+460,"Broadcasting and Cable TV",115,115
+462,"and Cable",115,0
+463,"and Cable TV",115,0
+464,"Cable",115,0
+465,"Cable TV",115,0
+466,"TV",115,0
+467,"Packaged",118,0
+468,"Packaged Foods",118,0
+469,"Packaged Foods and",118,0
+470,"Packaged Foods and Meats",118,118
+471,"Foods",118,0
+472,"Foods and",118,0
+473,"Foods and Meats",118,0
+475,"and Meats",118,0
+476,"Meats",118,0
+477,"Hotels",123,0
+478,"Hotels Resorts",123,0
+479,"Hotels Resorts and",123,0
+480,"Hotels Resorts and Cruise",123,0
+481,"Hotels Resorts and Cruise Lines",123,123
+482,"Resorts",123,0
+483,"Resorts and",123,0
+484,"Resorts and Cruise",123,0
+485,"Resorts and Cruise Lines",123,0
+487,"and Cruise",123,0
+488,"and Cruise Lines",123,0
+489,"Cruise",123,0
+490,"Cruise Lines",123,0
+491,"Lines",123,0
+492,"Construction",124,0
+493,"Construction and",124,0
+494,"Construction and Farm",124,0
+495,"Construction and Farm Machinery",124,0
+496,"Construction and Farm Machinery and",124,0
+497,"Construction and Farm Machinery and Heavy",124,0
+498,"Construction and Farm Machinery and Heavy Trucks",124,124
+500,"and Farm",124,0
+501,"and Farm Machinery",124,0
+502,"and Farm Machinery and",124,0
+503,"and Farm Machinery and Heavy",124,0
+504,"and Farm Machinery and Heavy Trucks",124,0
+505,"Farm",124,0
+506,"Farm Machinery",124,0
+507,"Farm Machinery and",124,0
+508,"Farm Machinery and Heavy",124,0
+509,"Farm Machinery and Heavy Trucks",124,0
+510,"Machinery",124,0
+511,"Machinery and",124,0
+512,"Machinery and Heavy",124,0
+513,"Machinery and Heavy Trucks",124,0
+515,"and Heavy",124,0
+516,"and Heavy Trucks",124,0
+517,"Heavy",124,0
+518,"Heavy Trucks",124,0
+519,"Trucks",124,0
+520,"Real",125,0
+521,"Real Estate",125,26
+522,"Real Estate Services",125,125
+523,"Estate",125,0
+524,"Estate Services",125,0
+525,"Services",125,0
+526,"Fertilizers",131,0
+527,"Fertilizers and",131,0
+528,"Fertilizers and Agricultural",131,0
+529,"Fertilizers and Agricultural Chemicals",131,131
+531,"and Agricultural",131,0

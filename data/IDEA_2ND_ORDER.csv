@@ -1,0 +1,201 @@
+"IDEA_2ND_ID","IDEA_GDELT_CODE","IDEA_2ND","IDEA_1ST_ID"
+0,"0","NOTHING",0
+1,"01","Yield",1
+2,"011","Yield to order",1
+3,"012","Yield position",1
+4,"02","Comment",2
+5,"021","Decline comment",2
+6,"022","Pessimistic comment",2
+7,"024","Optimistic comment",2
+8,"026","Acknowledge responsibility",2
+9,"03","Consult",3
+10,"031","Discussions",3
+11,"032","Travel to meet",3
+12,"033","Host meeting",3
+13,"04","Endorse",4
+14,"041","Praise",4
+15,"043","Empathize",4
+16,"044","Apologize",4
+17,"045","Forgive",4
+18,"05","Promise",5
+19,"051","Promise policy support",5
+20,"052","Promise material support",5
+21,"0521","Promise economic support",5
+22,"0522","Promise military support",5
+23,"0523","Promise humanitarian support",5
+24,"054","Assure",5
+25,"06","Grant",6
+26,"062","Extend invitation",6
+27,"063","Provide shelter",6
+206,"1901","Censorship",19
+29,"0631","Grant asylum",6
+30,"0632","Evacuate victims",6
+31,"064","Improve relations",6
+32,"0131","Ease sanction",6
+33,"01312","Observe truce",6
+208,"54","Negotiation",54
+39,"066","Release or return",6
+40,"07","Reward",7
+41,"071","Extend economic aid",7
+42,"072","Extend military aid",7
+43,"073","Extend humanitarian aid",7
+44,"074","Rally support",7
+45,"08","Agree",8
+46,"081","Assent to proposal",8
+47,"082","Agree or accept",8
+48,"083","Collaborate",8
+49,"09","Request",9
+50,"091","Ask for information",9
+51,"092","Solicit support",9
+52,"093","Ask for material aid",9
+53,"0931","Ask for economic aid",9
+54,"0932","Ask for military aid",9
+55,"0933","Ask for humanitarian aid",9
+56,"094","Ask for protection",9
+57,"10","Propose",10
+58,"101","Offer peace proposal",10
+59,"102","Call for action",10
+60,"11","Reject",11
+61,"111","Reject proposal",11
+65,"112","Veto",11
+66,"113","Defy norms",11
+67,"1131","Political insiight",11
+68,"1132","Disclose information",11
+69,"1133","Establish parallel institutions",11
+70,"1134","Break law",11
+71,"12","Accuse",12
+72,"121","Criticize or blame",12
+73,"122","Denounce or denigrate",12
+74,"13","Complain",13
+75,"131","informally complain",13
+76,"132","Formally complain",13
+77,"14","Deny",14
+78,"15","Demand",15
+79,"16","Warn",16
+80,"161","Alerts",16
+81,"1611","Military alert",16
+82,"1612","Nuclear alert or test",16
+83,"162","Military display",16
+84,"162","Military display",16
+85,"1621","Military air display",16
+86,"1622","Military naval display",16
+87,"1623","Military troops display",16
+88,"163","Central crowds",16
+89,"17","Threaten",17
+90,"171","Non-specific threats",17
+91,"172","Sanctions threat",17
+92,"173","Military force threats",17
+93,"1731","Threaten military attack",17
+94,"1732","Threaten military blockade",17
+95,"1733","Threaten military occupation",17
+96,"1734","Threaten military war",17
+97,"1735","Threaten nuclear attack",17
+98,"174","Give ultimatum",17
+99,"175","Non-military force threats",17
+100,"18","Demonstrate",18
+101,"181","Protest demonstrations",18
+102,"1811","Protest obstruction",18
+103,"1812","Protest procession",18
+104,"1813","Symbolic protest",18
+105,"1814","Protest altruism",18
+106,"1815","Informational protest",18
+107,"182","Military demonstration",18
+108,"1821","Military mobilization",18
+109,"1822","Military border fortiï¬�cation",18
+110,"19","Sanction",19
+111,"191","Military blockade",19
+112,"192","Reduce routine activity",19
+113,"193","Reduce or stop aid",19
+114,"194","Halt negotiations",19
+115,"195","Break relations",19
+116,"196","Strikes and boycotts",19
+117,"197","Administrative sanctions",19
+118,"198","Declare military war",19
+119,"20","Expel",20
+120,"21","Seize",21
+121,"211","Seize possession",21
+122,"2111","Police seizure",21
+123,"2112","Guerilla seizure",21
+124,"2113","Paramilitary seizure",21
+125,"212","Arrest and detention",21
+126,"213","Abduction and hijacking",21
+127,"2131","Guerrilla abduction",21
+128,"2132","Paramilitary abduction",21
+129,"214","Covert monitoring",21
+130,"215","Military seizure",21
+131,"216","Military occupation",21
+132,"217","Military border violation",21
+133,"22","Force",22
+134,"221","Bombings",22
+135,"2211","Grenade/RPG use",22
+136,"2212","Suicide bombing",22
+137,"2213","Mine explosion",22
+138,"2214","Vehicle bombing",22
+139,"222","Physical assault",22
+140,"2221","Beatings",22
+141,"2222","Shooting",22
+142,"2223","Bodily punishment",22
+143,"2224","Sexual assault",22
+144,"2225","Torture",22
+145,"2226","Paramilitary assault",22
+146,"2227","Guerrilla assault",22
+147,"2228","Assassination",22
+148,"223","Military engagements",22
+149,"223","Military engagements",22
+150,"2231","Military clash",22
+151,"2232","Military raid",22
+152,"2233","Coups and mutinies",22
+153,"224","Riot",22
+154,"225","CBR weapons use",22
+155,"2251","Biological weapons use",22
+156,"2252","Chemical weapons use",22
+157,"23","Economic activity",23
+158,"231","Transactions",23
+159,"2311","Government transactions",23
+160,"2312","Private transactions",23
+161,"232","Default on payment",23
+162,"232","Default on payment",23
+163,"2321","Government default on payments",23
+164,"2322","Private default on payments",23
+165,"24","Adjudicate",24
+166,"25","Vote",25
+167,"26","Adjust",26
+168,"261","Administrative adjustment",26
+169,"262","Private sector adjustment",26
+170,"29","Other human action",29
+171,"41","Human illness",41
+172,"411","Infectious human illness",41
+173,"412","Non-infectious human illness",41
+174,"42","Human death",42
+175,"43","Economic status",43
+176,"431","Balance of payments",43
+177,"432","Currency reserves",43
+178,"433","Exchange rates",43
+179,"434","Equity prices",43
+180,"435","Debt yields",43
+181,"436","Real estate prices",43
+182,"437","Commodity prices",43
+183,"44","Psychological state",44
+184,"441","Affective state",44
+185,"442","Cognitive state",44
+186,"49","Other human condition",49
+187,"51","Natural disaster",51
+188,"511","Drought",51
+189,"512","Earthquake",51
+190,"513","Flood",51
+191,"514","Hurricane",51
+192,"515","Tornado",51
+193,"516","Volcano",51
+194,"517","Tsunami",51
+195,"518","Wildlife",51
+196,"52","Accident",52
+197,"521","Hazardous material spill",52
+198,"522","Radioactive leak",52
+199,"59","Other incident",59
+200,"71","Animal attack",71
+201,"72","Animal death",72
+202,"73","Animal illness",73
+203,"79","Other animal incident",79
+204,"98","A&E Performance",98
+205,"99","Sports contest",99
+207,"1902","Curfew",19

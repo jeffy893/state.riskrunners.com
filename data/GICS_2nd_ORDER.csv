@@ -1,0 +1,153 @@
+"GICS_2ND_ID","GICS_CODE","GICS_2ND","GICS_1ST_ID"
+37,"30160","Pharmaceuticals",35
+2,"1010","Energy",10
+38,"40130","IT Consulting and Other Services",45
+4,"1510","Materials",15
+5,"20","Industrials",20
+6,"2010","Capital Goods",20
+7,"2020","Commercial and Professional Services",20
+8,"2030","Transportation",20
+9,"25","Consumer Discretionary",25
+10,"2510","Automobiles and Components",25
+11,"2520","Consumer Durables and Apparel",25
+12,"2530","Consumer Services",25
+13,"2540","Media",25
+14,"2550","Retailing",25
+15,"30","Consumer Staples",30
+16,"3010","Food and Staples Retailing",30
+17,"3020","Food Beverage and Tobacco",30
+18,"3030","Household and Personal Products",30
+19,"35","Health Care",35
+20,"3510","Health Care Equipment and Services",35
+21,"3520","Pharmaceuticals Biotechnology and Life Sciences",35
+22,"40","Financials",40
+23,"4010","Banks",40
+24,"4020","Diversified Financials",40
+25,"4030","Insurance",40
+26,"4040","Real Estate",40
+27,"45","Information Technology",45
+28,"4510","Software and Services",45
+29,"4520","Technology Hardware and Equipment",45
+30,"4530","Semiconductors and Semiconductor Equipment",45
+39,"4050","Property and Casualty Insurance",40
+32,"5010","Telecommunication Services",50
+33,"55","Utilities",55
+40,"4540","Home Entertainment Software",45
+35,"2040","Industrial Conglomerates",20
+41,"4550","Application Software",45
+42,"2050","Diversified Commercial Services",20
+43,"2560","Automotive Retail",25
+44,"5520","Independent Power Producers and Energy Traders",55
+45,"3530","Managed Health Care",35
+46,"4060","Life and Health Insurance",40
+47,"4070","Asset Management and Custody Banks",40
+49,"5530","Gas Utilities",55
+50,"1550","Industrial Gases",15
+52,"4560","Internet Software and Services",45
+53,"1540","Aluminum",15
+55,"3540","Biotechnology",35
+56,"2060","Building Products",20
+57,"4570","Data Processing and Outsourced Services",45
+61,"3040","Tobacco",30
+62,"2570","Internet Retail",25
+63,"5540","MultiUtilities",55
+64,"2070","Airlines",20
+65,"5550","Electric Utilities",55
+66,"4080","Consumer Finance",40
+68,"4090","Specialized REITs",40
+69,"40100","Diversified Financial Services",40
+70,"3550","Health Care Distribution and Services",35
+71,"2080","Electrical Components and Equipment",20
+74,"1060","Oil and Gas Exploration and Production",10
+75,"4580","Semiconductors",45
+76,"40110","Insurance Brokers",40
+78,"40120","REITs",40
+79,"4590","Computer Hardware",45
+80,"45100","Semiconductor Equipment",45
+81,"3050","Agricultural Products",30
+82,"40130","Multi-line Insurance",40
+86,"2580","Specialty Stores",25
+89,"40140","Residential REITs",40
+90,"1560","Paper Packaging",15
+91,"1050","Oil and Gas Equipment and Services",10
+92,"15120","Metal and Glass Containers",15
+101,"40150","Multi-Sector Holdings",40
+102,"2590","Computer and Electronics Retail",25
+106,"2090","Aerospace and Defense",20
+107,"25100","Auto Parts and Equipment",25
+0,"0","NOTHING",0
+112,"3060","Distillers and Vintners",30
+113,"20100","Air Freight and Logistics",20
+114,"45110","Systems Software",45
+115,"25110","Broadcasting and Cable TV",25
+118,"3070","Packaged Foods and Meats",30
+123,"25120","Hotels Resorts and Cruise Lines",25
+124,"20110","Construction and Farm Machinery and Heavy Trucks",20
+125,"40160","Real Estate Services",40
+131,"1580","Fertilizers and Agricultural Chemicals",15
+132,"40170","Investment Banking and Brokerage",40
+133,"1080","Integrated Oil and Gas",10
+135,"25130","Restaurants",25
+137,"3080","Household Products",30
+141,"20120","Diversified Support Services",20
+142,"45120","Networking Equipment",45
+148,"25140","Apparel Accessories and Luxury Goods",25
+149,"3090","Soft Drinks",30
+151,"45130","IT Consulting and Services",45
+153,"10100","Oil and Gas Storage and Transportation",10
+158,"1070","Coal and Consumable Fuels",10
+161,"20130","Construction and Engineering",20
+162,"30100","Hypermarkets and Super Centers",30
+165,"20140","Railroads",20
+166,"20150","Industrial Machinery",20
+167,"30110","Drug Retail",30
+168,"25150","Homebuilding",25
+171,"3560","Health Care Facilities",35
+175,"3570","Health Care Supplies",35
+177,"1040","Oil and Gas Drilling",10
+181,"25160","General Merchandise Stores",25
+185,"1570","Diversified Chemicals",15
+190,"20160","Data Processing Services",20
+195,"15100","Specialty Chemicals",15
+210,"30120","Personal Products",30
+231,"25170","Automobile Manufacturers",25
+234,"1590","Diversified Metals and Mining",15
+237,"25180","Apparel Retail",25
+238,"25190","Consumer Electronics",25
+247,"25200","Tires and Rubber",25
+248,"20170","Industrial Materials",20
+251,"25210","Motorcycle Manufacturers",25
+253,"45140","Telecommunications Equipment",45
+255,"25220","Leisure Products",25
+260,"45150","Technology Hardware Storage and Peripherals",45
+261,"25230","Home Improvement Retail",25
+269,"3580","Life Sciences Tools and Services",35
+274,"15130","Paper Products",15
+275,"25240","Advertising",25
+282,"20180","Trucking",20
+293,"1090","Oil and Gas Refining and Marketing and Transportation",10
+297,"30130","Food Retail",30
+315,"40180","Retail REITs",40
+316,"25250","Department Stores",25
+322,"15110","Construction Materials",15
+339,"25260","Home Furnishings",25
+340,"30140","Brewers",30
+355,"25270","Housewares and Specialties",25
+357,"1520","Gold",15
+358,"25280","Publishing",25
+361,"20190","Research and Consulting Services",20
+370,"1530","Steel",15
+384,"40190","Thrifts and Mortgage Finance",40
+395,"20200","Office Servicesand Supplies",20
+425,"20210","Human Resource and Employment Services",20
+433,"45160","Computer Storage and Peripherals",45
+444,"40120","Office REITs",40
+446,"25290","Household Appliances",25
+462,"30150","Food Distributors",30
+465,"45170","Electronic Equipment and Instruments",45
+482,"25300","Specialty Retail",25
+495,"20220","Trading Companies and Distributors",20
+515,"20230","Environmental Services",20
+528,"25310","Casinos and Gaming",25
+529,"1020","Oil",10
+530,"1030","Gas",10

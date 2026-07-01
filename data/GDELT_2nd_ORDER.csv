@@ -1,0 +1,204 @@
+"GDELT_2ND_ID","IDEA_GDELT_CODE","GDELT_2ND","IDEA_1ST_ID"
+0,"000","NOTHING",0
+29,"013","Ease",1
+30,"025","Consider policy option",2
+31,"141","Deny responsibility",14
+32,"027","Engage in symbolic act",2
+33,"028","Make empathetic comment",2
+34,"029","Express accord",2
+35,"095","Appeal for material cooperation",9
+36,"0951","Appeal for economic cooperation",9
+37,"0952","Appeal for military cooperation",9
+38,"0953","Appeal for judicial cooperation",9
+39,"0954","Appeal for intelligence",9
+40,"096","Appeal for diplomatic cooperation (such as policy support)",9
+41,"097","Appeal for political reform",9
+42,"0971","Appeal for change in leadership",9
+43,"0972","Appeal for policy change",9
+44,"0973","Appeal for rights",9
+45,"0974","Appeal for change in institutions regime",9
+46,"098","Appeal to yield",9
+47,"0981","Appeal for easing of administrative sanctions",9
+48,"0982","Appeal for easing of political dissent",9
+49,"0983","Appeal for release of persons or property",9
+50,"0984","Appeal for easing of economic sanctions boycott or embargo",9
+51,"0985","Appeal for target to allow international involvement (non-mediation)",9
+52,"0986","Appeal for de-escalation of military engagement",9
+53,"099","Appeal to others to meet or negotiate",9
+54,"0991","Appeal to others to settle dispute",9
+55,"0992","Appeal to engage in or accept mediation",9
+56,"27","Express intent",27
+57,"271","Express intent to engage in material cooperation",27
+58,"2711","Express intent to cooperate economically",27
+59,"2712","Express intent to cooperate militarily",27
+60,"2713","Express intent to cooperate on judicial matters",27
+61,"2714","Express intent to cooperate on intelligence",27
+62,"272","Express intent to engage in diplomatic cooperation (such as policy support)",27
+63,"273","Express intent to provide material aid",27
+64,"2731","Express intent to provide economic aid",27
+65,"2732","Express intent to provide military aid",27
+66,"2733","Express intent to provide humanitarian aid",27
+67,"2734","Express intent to provide military protection or peacekeeping",27
+68,"274","Express intent to institute political reform",27
+69,"2741","Express intent to change leadership",27
+70,"2742","Express intent to change policy",27
+71,"2743","Express intent to provide rights",27
+72,"2744","Express intent to change institutions regime",27
+73,"275","Express intent to yield",27
+74,"2751","Express intent to ease administrative sanctions",27
+75,"2752","Express intent to ease popular dissent",27
+76,"2753","Express intent to release persons or property",27
+77,"2754","Express intent to ease economic sanctions boycott or embargo",27
+78,"2755","Express intent to allow international involvement (non-mediation)",27
+79,"2756","Express intent to de-escalate military engagement",27
+80,"276","Express intent to meet or negotiate",27
+81,"277","Express intent to settle dispute",27
+82,"278","Express intent to accept mediation",27
+83,"279","Express intent to mediate",27
+84,"034","Meet at a third location",3
+85,"035","Mediate",3
+86,"036","Engage in negotiation",3
+87,"28","Diplomatic cooperation",28
+88,"281","Defend verbally",28
+89,"282","Rally support on behalf of",28
+90,"283","Grant diplomatic recognition",28
+91,"284","Sign formal agreement",28
+92,"30","Material cooperation",30
+93,"301","Cooperate economically",30
+94,"302","Cooperate militarily",30
+95,"303","Engage in judicial cooperation",30
+96,"304","Share intelligence or information",30
+97,"31","Provide",31
+98,"32","Material Aid",32
+99,"321","Provide economic aid",32
+100,"322","Provide military aid",32
+101,"323","Provide humanitarian aid",32
+102,"324","Provide military protection or peacekeeping",32
+103,"33","Investigate",33
+104,"331","Investigate crime corruption",33
+105,"332","Investigate human rights abuses",33
+106,"333","Investigate military action",33
+107,"334","Investigate war Crimes",33
+108,"15","Demand",15
+109,"151","Demand material cooperation",15
+110,"1511","Demand economic cooperation",15
+111,"1512","Demand military cooperation",15
+112,"1513","Demand judicial cooperation",15
+113,"1514","Demand intelligence cooperation",15
+114,"152","Demand diplomatic cooperation (such as policy support)",15
+115,"153","Demand material aid",15
+116,"1531","Demand economic aid",15
+117,"1532","Demand military aid",15
+118,"1533","Demand humanitarian aid",15
+119,"1534","Demand military protection or peacekeeping",15
+120,"154","Demand political reform",15
+121,"1541","Demand change in leadership",15
+122,"1542","Demand policy change",15
+123,"1543","Demand rights",15
+124,"1544","Demand change in institutions or regime",15
+125,"155","Demand that target yields",15
+126,"1551","Demand easing of administrative sanctions",15
+127,"1552","Demand easing of political dissent",15
+128,"1553","Demand release of persons or property",15
+129,"1554","Demand easing of economic sanctions boycott or embargo",15
+130,"1555","Demand that target allows international involvement (non-mediation)",15
+131,"1556","Demand de-escalation of military engagement",15
+132,"156","Demand meeting negotiation",15
+133,"157","Demand settling of dispute",15
+134,"158","Demand mediation",15
+135,"34","Political reform",34
+136,"341","Change in leadership",34
+137,"342","Policy change",34
+138,"343","Change in rights",34
+139,"344","Change in institutions regime",34
+140,"35","Disapprove",35
+141,"123","Accuse of crime corruption",12
+142,"124","Accuse of human rights abuses",12
+143,"125","Accuse of aggression",12
+144,"126","Accnse of war crimes",12
+145,"127","Accuse of espionage treason",12
+146,"128","Rally opposition against",12
+147,"129","Complain officially",12
+148,"1291","Bring lawsuit against",12
+149,"1292","Find guilty or liable (legally)",12
+150,"114","Reject material cooperation",11
+151,"1141","Reject economic cooperation",11
+152,"1142","Reject military cooperation",11
+153,"115","Reject request or demand for material aid",11
+154,"1151","Reject request for economic aid",11
+155,"1152","Reject request for military aid",11
+156,"1153","Reject request for humanitarian aid",11
+157,"1154","Reject request for military protection or peacekeeping",11
+158,"116","Reject request or demand for political reform",11
+159,"1161","Reject request for change in leadership",11
+160,"1162","Reject request for policy change",11
+161,"1163","Reject request for rights",11
+162,"1164","Reject request for change in institutions regime",11
+163,"117","Refuse to yield",11
+164,"1171","Refuse to ease administrative sanctions",11
+165,"1172","Refuse to ease popular dissent",11
+166,"1173","Refuse to release persons or property",11
+167,"1174","Refuse to ease economic sanctions boycott or embargo",11
+168,"1175","Refuse to allow international involvement (non mediation)",11
+169,"1176","Refuse to de-escalate military engagement",11
+170,"118","Reject proposal to meet discuss or negotiate",11
+171,"1181","Reject mediation",11
+172,"1182","Reject plan agreement to settle dispute",11
+173,"183","Demonstrate for political reform",18
+174,"1831","Demonstrate for leadership change",18
+175,"1832","Demonstrate for policy change",18
+176,"1833","Demonstrate for rights",18
+177,"1834","Demonstrate for change in institutions regime",18
+178,"1962","Conduct hunger strike for political reform",19
+179,"19621","Conduct hunger strike for leadership change",19
+180,"19622","Conduct hunger strike for policy change",19
+181,"19623","Conduct hunger strike for rights",19
+182,"19624","Conduct hunger strike for change in institutions regime",19
+183,"1961","Conduct standard strike or boycott",19
+184,"1961","Conduct strike or boycott for political reform",19
+185,"19611","Conduct strike or boycott for leadership change",19
+186,"19612","Conduct strike or boycott for policy change",19
+187,"19613","Conduct strike or boycott for rights",19
+188,"19614","Conduct strike or boycott for change in institutions regime",19
+189,"1963","Obstruct passage block for polical reform",19
+190,"19631","Obstruct passage to demand leadership change",19
+191,"19632","Obstruct passage to demand policy change",19
+192,"19633","Obstruct passage to demand rights",19
+193,"19634","Obstruct passage to demand change in institutions regime",19
+194,"1964","Protest violently riot for political reform",19
+195,"19641","Engage in violent protest for leadership change",19
+196,"19642","Engage in violent protest for policy change",19
+197,"19643","Engage in violent protest for rights",19
+198,"19644","Engage in violent protest for change in institutions regime",19
+199,"193","Reduce or stop material aid",19
+200,"1931","Reduce or stop economic assistance",19
+201,"1932","Reduce or stop military assistance",19
+202,"1933","Reduce or stop humanitarian assistance",19
+203,"201","Expel or withdraw peacekeepers",20
+204,"202","Expel or withdraw inspectors observers",20
+205,"203","Expel or withdraw aid agencies",20
+206,"36","Use unconventional mass violence",36
+207,"361","Engage in mass expulsion",36
+208,"362","Engage in mass killings",36
+209,"363","Engage in ethnic cleansing",36
+210,"364","Use weapons of mass destruction",36
+211,"365","Use of nuclear weapon",36
+212,"0131","Ease sanction",1
+213,"01311","Ease military blockade",1
+214,"01312","Ease sanction on material aid",1
+215,"01313","Ease halted negotiations",1
+216,"01314","Ease strikes and boycotts",1
+217,"01315","Ease administrative sanctions",1
+218,"01316","Ease censorship",1
+219,"01317","Ease curfew",1
+220,"37","Economic",37
+221,"38","Military",38
+222,"39","Judicial",39
+223,"40","Intelligence",40
+224,"391","Crime",39
+225,"30","Cooperate",30
+226,"46","Humanitarian",46
+227,"47","Policy",47
+228,"45","Leadership",45
+229,"48","Rights",48
+230,"53","Regime",53
