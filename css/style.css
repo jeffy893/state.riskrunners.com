@@ -711,3 +711,65 @@ body {
     grid-template-columns: 1fr;
   }
 }
+
+
+/* === Site Footer === */
+.site-footer {
+  text-align: center;
+  padding: 50px 20px;
+  border-top: 1px solid var(--border);
+  color: var(--text-muted);
+  font-size: 0.85em;
+}
+
+.footer-brand {
+  font-family: var(--font-mono);
+  font-size: 1em;
+  letter-spacing: 3px;
+  color: var(--text-secondary);
+  margin-bottom: 8px;
+}
+
+.site-footer p {
+  color: var(--text-muted);
+  margin-bottom: 0;
+}
+
+.site-footer .footer-sub {
+  margin-top: 8px;
+  color: var(--text-secondary);
+}
+
+.footer-links {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin-top: 18px;
+  flex-wrap: wrap;
+}
+
+.footer-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--text-secondary);
+  text-decoration: none;
+  font-size: 0.9em;
+  padding: 8px 16px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  transition: color 0.2s, border-color 0.2s, background 0.2s;
+}
+
+.footer-links a:hover {
+  color: var(--accent-blue);
+  border-color: rgba(88, 166, 255, 0.4);
+  background: rgba(88, 166, 255, 0.05);
+}
+
+.footer-links svg {
+  width: 16px;
+  height: 16px;
+  fill: currentColor;
+  flex-shrink: 0;
+}
